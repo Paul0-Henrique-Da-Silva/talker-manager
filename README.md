@@ -1,4 +1,4 @@
-# Projetct Talker Manager
+# Talker Manager
 # Contexto
 Neste projeto foram realizadas consultas e manipulação de dados de palestrantes.
 ## Técnologias usadas
