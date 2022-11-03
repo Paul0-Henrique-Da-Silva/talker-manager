@@ -1,9 +1,5 @@
 # Talker Manager
-# Contexto
 Neste projeto foram realizadas consultas e manipulação de dados de palestrantes.
-## Técnologias usadas
-Back-end:
-> Desenvolvido usando: NodeJS, ExpressJS, Docker
 ## Instalando Dependências
 > Backend
 ```bash
